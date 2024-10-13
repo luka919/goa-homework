@@ -17,9 +17,9 @@ end_fill()
 
 penup()
 goto(50, 0)
-pendown
+pendown()
 
-color("black")
+color("red")
 begin_fill()
 right(180)
 forward(150)
@@ -33,35 +33,24 @@ end_fill()
 
 penup()
 goto(250,300)
-pendown
+pendown()
 
 
 
 
 
 
-color("black")
+color("orange")
 begin_fill()
-right(150)
-forward(150)
+right(140)
+forward(250)
+left(110)
+forward(215)
+right(110)
+forward(250)
 left(120)
-forward(150)
-right(120)
-forward(150)
-left(120)
-forward(150)
-right(120)
-forward(150)
-left(120)
-forward(150)
+forward(215)
 end_fill()
-
-
-
-
-
-
-
 
 
 
