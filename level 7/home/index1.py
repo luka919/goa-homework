@@ -1,0 +1,7 @@
+name = input ("enter name :")
+last_name = input ("enter last_name :")
+countre = input ("enter countr :")
+age = int(input ("enter age :"))
+favorite_car = input ("enter favorite car : ")
+favorite_color = input ("enter favorite color : ")
+print(f"my name is" + {name} + "my last name is" + {last_name} + "my age is" + str({age}) + "i live in" + {countre} + "my favorite car is" + {favorite_car} + "my favorite color is" + {favorite_color})
