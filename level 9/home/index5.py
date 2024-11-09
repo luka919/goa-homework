@@ -1,0 +1,5 @@
+name = input("enter your name")
+password = input("enter your password")
+print(name + password)
+print(name==name)
+print(password==password)

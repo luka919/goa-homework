@@ -1,0 +1,6 @@
+name = input("enter your name")
+age = int(input("enter your age"))
+my_aura = float(input("enter your aura"))
+print(type(name))
+print(type(age))
+print(type(my_aura)) 

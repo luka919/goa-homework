@@ -1,0 +1,6 @@
+print(25>34)
+print(15<70)
+print(35>=35)
+print(27<=70)
+print(70==70)
+print(93!=93)
