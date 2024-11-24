@@ -1,0 +1,36 @@
+p {
+    color: aqua;
+}
+
+h2 {
+    color: chartreuse;
+}
+
+button {
+    background-color: ghostwhite;
+}
+
+form {
+    background-color: aliceblue;
+}
+
+input {
+    background-color: aliceblue;
+}
+
+p {
+    color: rgb(54, 117, 175);
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+h1 {
+    color: rgb(255, 255, 255)
+}
+
+h2 {
+    color: rgb(0, 0, 0)
+}

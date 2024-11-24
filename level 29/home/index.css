@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Lacquer&family=Permanent+Marker&display=swap');
+
+p {
+    text-decoration: underline solid;
+    text-shadow: 2px 1px 1px rgb(65, 245, 36);
+    font-family: "Permanent Marker", Georgia;
+}
+
+h1 {
+    font-family: "jacquard12", cursive;
+}
+
+h2 {
+    font-family: "Lacquer", calc;
+}

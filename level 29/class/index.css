@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Lacquer&family=Permanent+Marker&display=swap');
+
+p {
+    text-decoration: solid;
+    text-shadow: 4px, 2px, 1px;
+}
+
+h1 {
+    text-decoration: dashed;
+    font-family: 'Lacquer';
+}
+
+h2 {
+    text-decoration: dotted;
+}
+
+h3 {
+    text-decoration: double;
+}
+
+h4 {
+    text-decoration: wavy;
+}
+
+h5 {
+    text-decoration: none;
+}
