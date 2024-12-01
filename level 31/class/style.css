@@ -1,0 +1,19 @@
+a:link {
+    text-decoration: none;
+    color: aqua;
+}
+
+button:hover {
+    text-decoration: none;
+    background-color: greenyellow;
+}
+
+a:active {
+    text-decoration: none;
+    color: rgb(25, 5, 44);
+}
+
+a:visited {
+    text-decoration: line-through solid;
+    color: rgb(23, 158, 56)
+}

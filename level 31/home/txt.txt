@@ -1,0 +1,4 @@
+pseudo selectors is : link, active, hover, visited. we use "link" to decorate active link . we use "active" when we want to display some style of the link, when user click their mouse on it.we use a hover to display some style of the link, when user brings their mouse, but don't click on it.we use a visited to display some style of the link, when link is visited.
+
+
+ლინკმა რომელზეც გადასულები ვიყავით იმიტომ არის საჭირო რომფერი შეიცვალოს, რომ არ აგვერიოს გადასული ვიყავით თუ არა.

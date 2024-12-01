@@ -1,3 +1,4 @@
-def no_space(x):
+def manual_replace(x):
     return x.replace('o','hello world')
-print(no_space("hello world"))
+x = "hello world"
+print(manual_replace(x))

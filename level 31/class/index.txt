@@ -1,0 +1,4 @@
+hover = არის ისეთი pseudo selector გასტილვა რომელზეც მაუსს მივიტანთ
+active = არის ისეთი pseudo selector გასტილვა რომელსაც ჩვენ მაუსით დავაჭერთ
+link = არის ისეთი pseudo selector გადასვლამდე ლინკის სტილი
+visited = არის ისეთი pseudo selector გადასვლის შემდეგ ლინკის სტილი
