@@ -1,9 +1,8 @@
-def manual_max(arr):
-    if not arr:
-        return None  
-    largest = arr[0]
-    for num in arr:
-        if num > largest:
-            largest = num
+def manual_min(listn):
+    x = listn[0]
+    for i in listn:
+        if i < x:
+            x = i
     
-    return largest
+    return x
+print(manual_min([2,4,5,1,8,3]))
