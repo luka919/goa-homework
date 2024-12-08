@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+.parent {
+    width: 800px;
+    height: 800px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.second_parent {
+    width: 400px;
+    height: 470px;
+    background-color: ghostwhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.cheldren {
+    height: 100px;
+    width: 250px;
+    background-color: rgb(119, 108, 8);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover {
+    border: none;
+    background-color: rgb(206, 218, 48);
+    width: 75px;
+    height: 25px;
+    border-radius: 12.5px;
+    font-size: 11px;
+    cursor: pointer;
+}
+
+button {
+    border: none;
+    background-color: yellow;
+    width: 75px;
+    height: 25px;
+    border-radius: 12.5px;
+    font-size: 11px;
+}
+
+img {
+    height: 100px;
+    width: 250px;
+}

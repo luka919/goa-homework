@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+}
+
+
+.parent {
+    width: 800px;
+    height: 800px;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+}
+
+.cheldren {
+    width: 400px;
+    height: 470px;
+    background-color: rgb(46, 40, 40);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+
+.chaldren {
+    width: 150px;
+    height: 30px;
+    background-color: gainsboro;
+    border-radius: 50px;
+}
+
+h3 {
+    color: white;
+
+}
+
+p {
+    color: greenyellow;
+}
+
+h4 {
+    color: rgb(206, 206, 221);
+}
+
+img {
+    height: 75px;
+    width: 65px;
+    border-radius: 30px;
+}

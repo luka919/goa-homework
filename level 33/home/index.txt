@@ -1,0 +1,15 @@
+flexbox არის და გვეხმარება ჩვენ , რომ ელემენტები გადავაადგილოდ. მას აქვს ორი კუთვნილება  justify-content და align-items თუ flex-direction არის row მაშინ justify-content სტილავს x და align-items სტილავს y და თუ flex-direction არის colmun მაშინ justify-content სტილავს y და align-items სტილავს x.
+
+
+
+
+
+
+
+
+
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;

@@ -1,4 +1,9 @@
-list = "i am 11 years old"
-def manual_find(list):
-    return list.find('11')
-print(list.find("11"))
+def manual_find(s , x):
+    n = 0
+    for i in s:
+        if i == x:
+            return n
+        else:
+            n += 1
+
+print(manual_find("hello world", "o"))

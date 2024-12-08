@@ -1,0 +1,11 @@
+table {
+    border: solid;
+}
+
+table:nth-child(odd) {
+    background-color: gray;
+}
+
+table:nth-child(1) {
+    background-color: aqua;
+}
