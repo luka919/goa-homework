@@ -1,0 +1,38 @@
+.item-2 {
+    background-color: red;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 50px;
+    width: 50px;
+}
+
+
+.item-1 {
+    background-color: blue;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    top: 0px;
+    right: 0px;
+
+
+}
+
+.item-3 {
+    background-color: green;
+    position: relative;
+    height: 50px;
+    width: 50px;
+    top: 725px;
+    left: 0px;
+}
+
+.item-4 {
+    background-color: yellow;
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    right: 0px;
+    bottom: 0px;
+}
