@@ -1,5 +1,12 @@
-def manual_in_keyword(prompt):
-    return input(prompt)
+def manual_in_keyword(element, collection):
+    for item in collection:
+        if item == element:
+            return True
+    return False
 
-user_input = manual_in_keyword("Please enter your favorite color: ")
-print(f"Your favorite color is {user_input}.")
+fruits = ['apple', 'banana', 'cherry']
+
+if manual_in_keyword('banana', fruits):
+    print("Banana is in the list!")
+else:
+    print("Banana is not in the list.")
