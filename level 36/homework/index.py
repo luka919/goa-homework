@@ -1,8 +1,9 @@
 def manual_in_keyword(element, collection):
-    for item in collection:
-        if item == element:
+    for i in collection:
+        if i == element:
             return True
-    return False
+        else:
+            return False
 
 fruits = ['apple', 'banana', 'cherry']
 

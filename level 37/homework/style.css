@@ -1,0 +1,93 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.container {
+    height: 1000px;
+    width: 1500px;
+    background-color: rgb(160, 187, 211);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.top {
+    width: 350px;
+    height: 150px;
+    background-color: aqua;
+}
+
+.bottom {
+    height: 450px;
+    width: 350px;
+    background-color: rgb(223, 211, 211);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.center {
+    height: 275px;
+    width: 320px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.btn {
+    width: 280px;
+    height: 70px;
+    background-color: rgb(190, 179, 179);
+    display: flex;
+}
+
+.legings {
+    height: 205px;
+    width: 320px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+p {
+    font-size: medium;
+    color: gray;
+}
+
+
+button {
+    width: 280px;
+    height: 70px;
+    border-radius: 4.0px;
+    background-color: rgb(240, 233, 233);
+}
+
+.secound_btn {
+    width: 280px;
+    height: 40px;
+    background-color: rgb(68, 68, 216);
+}
+
+img {
+    width: 350px;
+    height: 150px;
+}
