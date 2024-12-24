@@ -1,0 +1,5 @@
+დღეს ქვქონდა codewars
+7kyu:
+1) https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/python
+2) https://www.codewars.com/kata/52fba66badcd10859f00097e/train/python
+3) https://www.codewars.com/kata/546e2562b03326a88e000020/train/python
