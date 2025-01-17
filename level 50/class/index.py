@@ -1,3 +1,5 @@
+print(age)
+age = "11"
 try:
     print(age)
     print("you print age successfully ")
