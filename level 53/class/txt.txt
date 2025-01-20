@@ -1,0 +1,3 @@
+translate ამოძრავებს
+scale ზრდის
+rotate ატრიალებს

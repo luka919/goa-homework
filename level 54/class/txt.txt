@@ -1,0 +1,5 @@
+1) mutable : list,set,dictionary.
+2) immutable : taple,str.
+3) 
+4) map გამოაქვს პასუხი მაგრამ true or false-თ და filter-ი false-ებს შლის.
+5) სტრინგების ჯამს კონკატინაცია ეწოდება
