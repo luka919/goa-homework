@@ -7,21 +7,26 @@
     font-family: "Montserrat", serif;
 }
 
+
 body {
     height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
     background-color: #674bb0;
     background-image: url(./images/bg-desktop.svg);
     background-repeat: no-repeat;
     background-size: contain;
 }
 
+html{
+    overflow-x: hidden;
+}
+
 main {
-    width: 80%;
+    width: 100%;
+    height: auto;
     display: flex;
-    flex-direction: row;
+    position: relative;
 }
 
 section {
@@ -31,12 +36,22 @@ section {
 #logo-div {
     margin-bottom: 20px;
     padding-left: 15px;
+    color: white;
+    width: 200px;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    z-index: 2;
 }
 
 #main-section {
+    width: 100%;
+    height: 100%;
     justify-content: center;
     align-items: center;
     gap: 50px;
+    position: absolute;
+    left: 0;
 }
 
 #content-div {
@@ -44,6 +59,8 @@ section {
     display: flex;
     flex-direction: column;
     gap: 20px;
+    position: absolute;
+    right: 200px;
 }
 
 h1 {
@@ -78,6 +95,10 @@ button:hover {
     display: flex;
     justify-content: flex-end;
     gap: 30px;
+    height: 80px;
+    position: absolute;
+    bottom: 20px;
+    right: 200px;
 }
 
 
@@ -104,4 +125,19 @@ i {
 
 .icon-div:hover i {
     color: #f953c0;
+}
+
+.bg-image{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 500px;
+    height: auto;
+}
+
+.double_pc{
+    position: absolute;
+    left: 100px;
+    top: 50%;
+    transform: translateY(-50%);
 }
