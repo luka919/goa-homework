@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>გადახდის მეთოდი</title>
+</head>
+<body>
+
+    <h2>pick how you want to pay</h2>
+    
+    <form action="/submit_payment" method="POST">
+        <label>
+            <input type="radio" name="payment_method" value="card" required> card
+        </label>
+        <br>
+        <label>
+            <input type="radio" name="payment_method" value="cash"> cash
+        </label>
+        <br><br>
+        <button type="submit">submit</button>
+    </form>
+
+</body>
+</html>
