@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+@keyframes colorchange {
+    0% {
+      background-color: red;
+    }
+    100% {
+      background-color: green;
+    }
+}
+  
+.color {
+    width: 200px;
+    height: 200px;
+    animation: colorchange 3s linear infinite;
+}
+
+@keyframes moveright {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(200px);
+    }
+}
+  
+.scele {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    animation: moveright 2s ease-in-out infinite;
+}
+
+
