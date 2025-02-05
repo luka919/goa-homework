@@ -1,0 +1,4 @@
+1) IDs 
+2) Classes
+3) Inline Styles
+4) Elements 
