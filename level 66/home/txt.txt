@@ -1,0 +1,6 @@
+codewars
+1) https://www.codewars.com/kata/58712dfa5c538b6fc7000569/train/python
+2) https://www.codewars.com/kata/59a96d71dbe3b06c0200009c/train/python
+3) https://www.codewars.com/kata/57ed30dde7728215300005fa/train/python
+4) https://www.codewars.com/kata/5a4138acf28b82aa43000117/train/python
+5) https://www.codewars.com/kata/55b051fac50a3292a9000025/train/python

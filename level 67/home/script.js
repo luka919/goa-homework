@@ -13,15 +13,15 @@ function sumOfNumbers(numbers) {
 function findMinMax(numbers) {
     let min = Math.min(numbers);  
     let max = Math.max(numbers);  
-    return {min, max};   
+    return min, max;   
 }
  
 
 
 // 3)
-function generateRandomArray(N) {
-    let randomArray = new Array(N); 
-    for (let i = 0; i < N; i++) {
+function generateRandomArray(n) {
+    let randomArray = new Array(n); 
+    for (let i = 0; i < n; i++) {
       randomArray[i] = Math.floor(Math.random() * 100) + 1;  
     }
     return randomArray;  
