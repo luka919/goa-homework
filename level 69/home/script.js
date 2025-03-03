@@ -1,8 +1,6 @@
 // 1)
-time = document.getElementById("time");
-const data1 = new Date();
-console.log(data1.getHours(),data1.getMinutes(),data1.getSeconds());
-
+let minutes = Number(prompt("enter amount of minutes"))
+let seconds = Number(prompt("enter amount of seconds"))
 
 // 2)
 let count = 0;
