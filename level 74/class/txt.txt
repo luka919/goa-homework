@@ -1,0 +1,4 @@
+6kyu:
+1) https://www.codewars.com/kata/5574835e3e404a0bed00001b/train/python
+2) https://www.codewars.com/kata/52761ee4cffbc69732000738/train/python
+3) https://www.codewars.com/kata/554ca54ffa7d91b236000023/train/python
