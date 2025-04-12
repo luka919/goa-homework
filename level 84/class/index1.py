@@ -20,4 +20,3 @@ class Student(Person):
     def display_info(self):
         super().display_info()  
         print(f"student_money: {self.student_money}")
-

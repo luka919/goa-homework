@@ -1,0 +1,6 @@
+1) JavaScript Info-ში წაიკითხეთ შემდეგი თავები:
+class basic syntax 
+class inheritance
+static properties and methods
+private and protected properties and methods
+extending build-in classes
